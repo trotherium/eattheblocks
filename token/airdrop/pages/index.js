@@ -90,14 +90,14 @@ Reason" Airdrop already sent to ${address}`
   return (
     <div className='container'>
       <Head>
-        <title>Eat The Blocks Airdrop</title>
+        <title>Trotherium Airdrop</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <div className='row mt-4'>
         <div className='col-sm-12'>
           <div className="jumbotron">
-            <h1 className='text-center'>Eat The Blocks Airdrop</h1>
+            <h1 className='text-center'>Trotherium Airdrop</h1>
           </div>
         </div>
       </div>
